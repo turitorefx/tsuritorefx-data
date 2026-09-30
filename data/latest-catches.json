@@ -1,1 +1,50 @@
-[]
+{
+  "generated_at": "2026-09-30T10:30:00+09:00",
+  "checked_at": "2026-09-30T10:30:00+09:00",
+  "sources": [
+    {
+      "name": "ANGLERS しまなみ海道・ブリ",
+      "url": "https://anglers.jp/areas/2750/fishes/5",
+      "ok": true,
+      "note": "2026/9/26 ハマチ70cm、9/27 ブリ85cmを確認。投稿地点非公開時はエリア代表点で表示。"
+    },
+    {
+      "name": "ANGLERS しまなみ海道・釣行",
+      "url": "https://anglers.jp/areas/2750/fishings",
+      "ok": true,
+      "note": "9/23を含む釣行投稿の有無を補助確認。青物として確認できない投稿は青物ピンにはしない。"
+    }
+  ],
+  "items": [
+    {
+      "date": "2026/09/27",
+      "fish": "ブリ85cm",
+      "lat": 34.22,
+      "lng": 133.10,
+      "area": "しまなみ海道（投稿地点非公開）",
+      "cond": "公開投稿：青物よく釣れました",
+      "src": "ANGLERS",
+      "url": "https://anglers.jp/areas/2750/fishes/5"
+    },
+    {
+      "date": "2026/09/26",
+      "fish": "ハマチ70cm",
+      "lat": 34.22,
+      "lng": 133.10,
+      "area": "しまなみ海道（投稿地点非公開）",
+      "cond": "公開投稿：ウッドポッパー150mm",
+      "src": "ANGLERS",
+      "url": "https://anglers.jp/areas/2750/fishes/5"
+    },
+    {
+      "date": "2026/09/23 07:37",
+      "fish": "ブリ85cm",
+      "lat": 34.25,
+      "lng": 132.55,
+      "area": "広島湾・呉エリア（投稿地点非公開）",
+      "cond": "ショアジギング／中潮",
+      "src": "ANGLERS",
+      "url": "https://anglers.jp/fishings/5530626"
+    }
+  ]
+}

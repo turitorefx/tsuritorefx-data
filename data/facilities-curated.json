@@ -1,1 +1,8 @@
-[]
+{
+  "generated_at": "2026-09-30T10:30:00+09:00",
+  "sources": [
+    {"name":"ぬるキャン","url":"https://null-camp.com/free-camping/","note":"無料キャンプ候補。位置が概略の場合があるため精度ランクを下げて表示。"},
+    {"name":"エネクスフリート","url":"https://map.enexfleet.com/","note":"GS営業時間・24H確認用。自動取得できた店舗のみ収録。"}
+  ],
+  "items": []
+}

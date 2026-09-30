@@ -1,4 +1,9 @@
 {
-  "version": "2026.09.30.2",
-  "updated": "2026-09-30"
+  "schema": "tsuritorefx-data-v1",
+  "updated_at": "2026-09-30T20:55:00+09:00",
+  "datasets": {
+    "catches": "data/latest-catches.json",
+    "facilities": "data/facilities-curated.json"
+  },
+  "note": "Public update data only. Main app is not hosted here."
 }
