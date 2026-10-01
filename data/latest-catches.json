@@ -1,27 +1,111 @@
 {
-  "generated_at": "2026-10-01T21:39:14+09:00",
-  "checked_at": "2026-10-01T21:39:14+09:00",
+  "generated_at": "2026-10-02T00:13:43+09:00",
+  "checked_at": "2026-10-02T00:13:43+09:00",
   "sources": [
     {
-      "name": "ANGLERS しまなみ海道 ブリ",
+      "name": "ANGLERS しまなみ",
       "url": "https://anglers.jp/areas/2750/fishes/5",
       "ok": true,
       "count": 0
     },
     {
-      "name": "ANGLERS しまなみ海道 釣行",
-      "url": "https://anglers.jp/areas/2750/fishings",
+      "name": "ANGLERS 大社築港",
+      "url": "https://anglers.jp/areas/2029/fishes/5",
       "ok": true,
       "count": 0
     },
     {
-      "name": "ANGLERS 大社築港 ブリ",
-      "url": "https://anglers.jp/areas/2029/fishes/5",
+      "name": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/",
       "ok": true,
       "count": 0
+    },
+    {
+      "name": "レジャックス 店舗ブログ",
+      "url": "https://www.anglers.co.jp/weblogs/",
+      "ok": true,
+      "count": 3
+    },
+    {
+      "name": "かめや釣具 山陽",
+      "url": "https://kameya-choka.com/sanyo/",
+      "ok": true,
+      "count": 5
+    },
+    {
+      "name": "かめや釣具 四国",
+      "url": "https://kameya-choka.com/shikoku/",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "かめや釣具 山陰",
+      "url": "https://kameya-choka.com/sanin/",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "name": "上州屋 釣り情報",
+      "url": "https://www.johshuya.co.jp/information/",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "name": "釣具のポイント 福山蔵王",
+      "url": "https://www.point-i.jp/fishing_spot_guides?area_id=0&free_word=&from=&prefecture_id=34&shop_id=82&to=",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "name": "釣具のポイント 出雲",
+      "url": "https://www.point-i.jp/fishing_spot_guides?free_word=&from=&prefecture_id=0&shop_id=86&to=&utf8=%E2%9C%93",
+      "ok": true,
+      "count": 11
     }
   ],
   "items": [
+    {
+      "date": "2026/10/01",
+      "fish": "ヒラマサ・サゴシ",
+      "lat": 34.88,
+      "lng": 132.06,
+      "area": "浜田・伍八波止（店舗公開情報／代表位置）",
+      "cond": "陸から・波止",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/30",
+      "fish": "ブリ・ハマチ・ヤズ",
+      "lat": 34.35,
+      "lng": 134.05,
+      "area": "高松周辺（店舗公開情報／代表位置）",
+      "cond": "磯",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/shikoku/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/28",
+      "fish": "ブリ",
+      "lat": 34.07,
+      "lng": 132.99,
+      "area": "今治周辺（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/weblogs/",
+      "sourceType": "shop",
+      "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
     {
       "date": "2026/09/27",
       "fish": "ブリ85cm",
@@ -30,7 +114,22 @@
       "area": "しまなみ海道（投稿地点非公開）",
       "cond": "公開投稿：青物よく釣れました",
       "src": "ANGLERS",
-      "url": "https://anglers.jp/areas/2750/fishes/5"
+      "url": "https://anglers.jp/areas/2750/fishes/5",
+      "sourceType": "community"
+    },
+    {
+      "date": "2026/09/27",
+      "fish": "ブリ",
+      "lat": 34.07,
+      "lng": 132.99,
+      "area": "今治周辺（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/weblogs/",
+      "sourceType": "shop",
+      "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
     },
     {
       "date": "2026/09/26",
@@ -40,7 +139,50 @@
       "area": "しまなみ海道（投稿地点非公開）",
       "cond": "公開投稿：ウッドポッパー150mm",
       "src": "ANGLERS",
-      "url": "https://anglers.jp/areas/2750/fishes/5"
+      "url": "https://anglers.jp/areas/2750/fishes/5",
+      "sourceType": "community"
+    },
+    {
+      "date": "2026/09/26",
+      "fish": "ブリ",
+      "lat": 34.07,
+      "lng": 132.99,
+      "area": "今治周辺（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/weblogs/",
+      "sourceType": "shop",
+      "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/26",
+      "fish": "ヒラマサ",
+      "lat": 34.88,
+      "lng": 132.06,
+      "area": "浜田・伍八波止（店舗公開情報／代表位置）",
+      "cond": "波止",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/24",
+      "fish": "ヒラマサ",
+      "lat": 34.88,
+      "lng": 132.06,
+      "area": "浜田・伍八波止（店舗公開情報／代表位置）",
+      "cond": "陸から・波止",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
     },
     {
       "date": "2026/09/23 07:37",
@@ -50,7 +192,190 @@
       "area": "広島湾・呉エリア（投稿地点非公開）",
       "cond": "ショアジギング／中潮",
       "src": "ANGLERS",
-      "url": "https://anglers.jp/fishings/5530626"
+      "url": "https://anglers.jp/fishings/5530626",
+      "sourceType": "community"
+    },
+    {
+      "date": "2026/09/23",
+      "fish": "ヒラマサ",
+      "lat": 34.88,
+      "lng": 132.06,
+      "area": "浜田・伍八波止（店舗公開情報／代表位置）",
+      "cond": "陸から・波止",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/23",
+      "fish": "ヒラマサ・サゴシ",
+      "lat": 34.88,
+      "lng": 132.06,
+      "area": "浜田・伍八波止（店舗公開情報／代表位置）",
+      "cond": "陸から・波止",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/22",
+      "fish": "サゴシ46.5cm",
+      "lat": 35.393,
+      "lng": 132.687,
+      "area": "大社周辺（店舗公開情報／代表位置）",
+      "cond": "磯・ジグ・ブレード",
+      "src": "釣具のポイント",
+      "url": "https://www.point-i.jp/fishing_spot_guides?free_word=&from=&prefecture_id=0&shop_id=86&to=&utf8=%E2%9C%93",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/19",
+      "fish": "サゴシ46.5cm",
+      "lat": 35.393,
+      "lng": 132.687,
+      "area": "大社漁港（店舗公開情報／代表位置）",
+      "cond": "朝マズメ・夕マズメ・ジグ・ブレード",
+      "src": "釣具のポイント",
+      "url": "https://www.point-i.jp/fishing_spot_guides?free_word=&from=&prefecture_id=0&shop_id=86&to=&utf8=%E2%9C%93",
+      "sourceType": "shop",
+      "shore": null,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/15",
+      "fish": "アカビラ",
+      "lat": 35.393,
+      "lng": 132.687,
+      "area": "大社漁港（店舗公開情報／代表位置）",
+      "cond": "回遊・朝マズメ・夕マズメ",
+      "src": "釣具のポイント",
+      "url": "https://www.point-i.jp/fishing_spot_guides?free_word=&from=&prefecture_id=0&shop_id=86&to=&utf8=%E2%9C%93",
+      "sourceType": "shop",
+      "shore": null,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/11",
+      "fish": "アカビラ",
+      "lat": 35.393,
+      "lng": 132.687,
+      "area": "大社漁港（店舗公開情報／代表位置）",
+      "cond": "回遊・朝マズメ・夕マズメ",
+      "src": "釣具のポイント",
+      "url": "https://www.point-i.jp/fishing_spot_guides?free_word=&from=&prefecture_id=0&shop_id=86&to=&utf8=%E2%9C%93",
+      "sourceType": "shop",
+      "shore": null,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/06",
+      "fish": "青物",
+      "lat": 35.393,
+      "lng": 132.687,
+      "area": "大社周辺（店舗公開情報／代表位置）",
+      "cond": "回遊",
+      "src": "釣具のポイント",
+      "url": "https://www.point-i.jp/fishing_spot_guides?free_word=&from=&prefecture_id=0&shop_id=86&to=&utf8=%E2%9C%93",
+      "sourceType": "shop",
+      "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/02",
+      "fish": "ヒラマサ",
+      "lat": 35.393,
+      "lng": 132.687,
+      "area": "大社周辺（店舗公開情報／代表位置）",
+      "cond": "磯",
+      "src": "釣具のポイント",
+      "url": "https://www.point-i.jp/fishing_spot_guides?free_word=&from=&prefecture_id=0&shop_id=86&to=&utf8=%E2%9C%93",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/02",
+      "fish": "ヒラマサ",
+      "lat": 35.393,
+      "lng": 132.687,
+      "area": "大社漁港（店舗公開情報／代表位置）",
+      "cond": "磯",
+      "src": "釣具のポイント",
+      "url": "https://www.point-i.jp/fishing_spot_guides?free_word=&from=&prefecture_id=0&shop_id=86&to=&utf8=%E2%9C%93",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/02",
+      "fish": "ヒラマサ・アカビラ",
+      "lat": 35.393,
+      "lng": 132.687,
+      "area": "大社漁港（店舗公開情報／代表位置）",
+      "cond": "磯・回遊",
+      "src": "釣具のポイント",
+      "url": "https://www.point-i.jp/fishing_spot_guides?free_word=&from=&prefecture_id=0&shop_id=86&to=&utf8=%E2%9C%93",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/01",
+      "fish": "ヒラマサ・アカビラ",
+      "lat": 35.393,
+      "lng": 132.687,
+      "area": "大社漁港（店舗公開情報／代表位置）",
+      "cond": "磯・回遊",
+      "src": "釣具のポイント",
+      "url": "https://www.point-i.jp/fishing_spot_guides?free_word=&from=&prefecture_id=0&shop_id=86&to=&utf8=%E2%9C%93",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/08/31",
+      "fish": "ヒラマサ・アカビラ",
+      "lat": 35.393,
+      "lng": 132.687,
+      "area": "大社漁港（店舗公開情報／代表位置）",
+      "cond": "回遊・夕マズメ",
+      "src": "釣具のポイント",
+      "url": "https://www.point-i.jp/fishing_spot_guides?free_word=&from=&prefecture_id=0&shop_id=86&to=&utf8=%E2%9C%93",
+      "sourceType": "shop",
+      "shore": null,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/08/27",
+      "fish": "青物",
+      "lat": 35.393,
+      "lng": 132.687,
+      "area": "大社周辺（店舗公開情報／代表位置）",
+      "cond": "回遊・夕マズメ",
+      "src": "釣具のポイント",
+      "url": "https://www.point-i.jp/fishing_spot_guides?free_word=&from=&prefecture_id=0&shop_id=86&to=&utf8=%E2%9C%93",
+      "sourceType": "shop",
+      "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
     }
   ]
 }
