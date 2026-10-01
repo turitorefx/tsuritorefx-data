@@ -20,6 +20,8 @@ jobs:
       - run: pip install requests beautifulsoup4
       - name: Update multi-source catches
         run: python scripts/update_catches.py
+      - name: Update JMA tides
+        run: python scripts/update_tides.py
       - name: Update facilities weekly or manual
         shell: bash
         run: |
@@ -34,5 +36,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/ version.json
-          git commit -m "data: refresh multi-source fishing feeds"
+          git commit -m "data: refresh fishing feeds and tides"
           git push
