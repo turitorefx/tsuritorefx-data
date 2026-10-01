@@ -2,7 +2,8 @@ name: Update public fishing data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 0,6,12,18 * * *'
+    # JST 02:17, 05:17, 08:17, 11:17, 14:17, 17:17, 20:17, 23:17
+    - cron: '17 */3 * * *'
 permissions:
   contents: write
 concurrency:
@@ -17,7 +18,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install requests beautifulsoup4
-      - name: Update catches
+      - name: Update multi-source catches
         run: python scripts/update_catches.py
       - name: Update facilities weekly or manual
         shell: bash
@@ -33,5 +34,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/ version.json
-          git commit -m "data: refresh public fishing map feeds"
+          git commit -m "data: refresh multi-source fishing feeds"
           git push
