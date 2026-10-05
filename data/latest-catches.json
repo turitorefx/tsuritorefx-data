@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T21:44:10+09:00",
-  "checked_at": "2026-10-05T21:44:10+09:00",
+  "generated_at": "2026-10-06T00:38:43+09:00",
+  "checked_at": "2026-10-06T00:38:43+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -24,7 +24,7 @@
       "name": "レジャックス 店舗ブログ",
       "url": "https://www.anglers.co.jp/weblogs/",
       "ok": true,
-      "count": 0
+      "count": 1
     },
     {
       "name": "かめや釣具 山陽",
@@ -89,6 +89,20 @@
       "url": "https://kameya-choka.com/sanin/",
       "sourceType": "shop",
       "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/05",
+      "fish": "サワラ",
+      "lat": 34.07,
+      "lng": 132.99,
+      "area": "今治周辺（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/weblogs/",
+      "sourceType": "shop",
+      "shore": false,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
