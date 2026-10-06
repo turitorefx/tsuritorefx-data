@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T12:35:28+09:00",
-  "checked_at": "2026-10-06T12:35:28+09:00",
+  "generated_at": "2026-10-06T15:44:17+09:00",
+  "checked_at": "2026-10-06T15:44:17+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -29,20 +29,23 @@
     {
       "name": "かめや釣具 山陽",
       "url": "https://kameya-choka.com/sanyo/",
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "count": 0,
+      "note": "ConnectTimeout"
     },
     {
       "name": "かめや釣具 四国",
       "url": "https://kameya-choka.com/shikoku/",
-      "ok": true,
-      "count": 1
+      "ok": false,
+      "count": 0,
+      "note": "ConnectTimeout"
     },
     {
       "name": "かめや釣具 山陰",
       "url": "https://kameya-choka.com/sanin/",
-      "ok": true,
-      "count": 4
+      "ok": false,
+      "count": 0,
+      "note": "ConnectTimeout"
     },
     {
       "name": "上州屋 釣り情報",
