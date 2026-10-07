@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T15:42:28+09:00",
-  "checked_at": "2026-10-07T15:42:28+09:00",
+  "generated_at": "2026-10-07T18:37:13+09:00",
+  "checked_at": "2026-10-07T18:37:13+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -42,7 +42,7 @@
       "name": "かめや釣具 山陰",
       "url": "https://kameya-choka.com/sanin/",
       "ok": true,
-      "count": 10
+      "count": 5
     },
     {
       "name": "上州屋 釣り情報",
@@ -205,6 +205,20 @@
       "location_precision": "representative"
     },
     {
+      "date": "2026/10/05",
+      "fish": "ハマチ・サゴシ",
+      "lat": 35.37,
+      "lng": 132.75,
+      "area": "出雲周辺（店舗公開情報／代表位置）",
+      "cond": "磯・回遊",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanin/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
       "date": "2026/10/04",
       "fish": "ハマチ",
       "lat": 34.88,
@@ -257,6 +271,20 @@
       "url": "https://kameya-choka.com/sanin/",
       "sourceType": "shop",
       "shore": null,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/04",
+      "fish": "ハマチ・サゴシ",
+      "lat": 35.37,
+      "lng": 132.75,
+      "area": "出雲周辺（店舗公開情報／代表位置）",
+      "cond": "磯・回遊",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanin/",
+      "sourceType": "shop",
+      "shore": true,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
