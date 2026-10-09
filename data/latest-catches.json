@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T15:44:29+09:00",
-  "checked_at": "2026-10-09T15:44:29+09:00",
+  "generated_at": "2026-10-09T18:38:08+09:00",
+  "checked_at": "2026-10-09T18:38:08+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -87,6 +87,20 @@
       "cond": "波止",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/shikoku/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/09",
+      "fish": "ヒラマサ・サゴシ",
+      "lat": 35.37,
+      "lng": 132.75,
+      "area": "出雲周辺（店舗公開情報／代表位置）",
+      "cond": "サーフ・磯・回遊",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanin/",
       "sourceType": "shop",
       "shore": true,
       "confidence": "shop-report",
@@ -199,6 +213,20 @@
       "cond": "陸から",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/07",
+      "fish": "ヒラマサ",
+      "lat": 35.37,
+      "lng": 132.75,
+      "area": "出雲周辺（店舗公開情報／代表位置）",
+      "cond": "サーフ・磯",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanin/",
       "sourceType": "shop",
       "shore": true,
       "confidence": "shop-report",
