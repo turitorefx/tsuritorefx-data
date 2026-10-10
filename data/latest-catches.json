@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T15:41:53+09:00",
-  "checked_at": "2026-10-10T15:41:53+09:00",
+  "generated_at": "2026-10-10T18:34:39+09:00",
+  "checked_at": "2026-10-10T18:34:39+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -18,13 +18,13 @@
       "name": "レジャックス/アングラーズグループ",
       "url": "https://www.anglers.co.jp/",
       "ok": true,
-      "count": 0
+      "count": 2
     },
     {
       "name": "レジャックス 店舗ブログ",
       "url": "https://www.anglers.co.jp/weblogs/",
       "ok": true,
-      "count": 4
+      "count": 7
     },
     {
       "name": "かめや釣具 山陽",
@@ -42,7 +42,7 @@
       "name": "かめや釣具 山陰",
       "url": "https://kameya-choka.com/sanin/",
       "ok": true,
-      "count": 1
+      "count": 3
     },
     {
       "name": "上州屋 釣り情報",
@@ -64,6 +64,48 @@
     }
   ],
   "items": [
+    {
+      "date": "2026/10/10",
+      "fish": "サワラ",
+      "lat": 34.42,
+      "lng": 134.9,
+      "area": "淡路島（店舗公開情報／代表位置）",
+      "cond": "波止",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/10",
+      "fish": "サワラ",
+      "lat": 34.42,
+      "lng": 134.9,
+      "area": "淡路島（店舗公開情報／代表位置）",
+      "cond": "波止",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/weblogs/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/10",
+      "fish": "サワラ",
+      "lat": 34.07,
+      "lng": 132.99,
+      "area": "今治周辺（店舗公開情報／代表位置）",
+      "cond": "波止",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/weblogs/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
     {
       "date": "2026/10/09",
       "fish": "青物",
@@ -98,9 +140,23 @@
       "lat": 35.37,
       "lng": 132.75,
       "area": "出雲周辺（店舗公開情報／代表位置）",
-      "cond": "サーフ・磯・回遊",
+      "cond": "磯・回遊",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanin/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/09",
+      "fish": "サワラ",
+      "lat": 34.07,
+      "lng": 132.99,
+      "area": "今治周辺（店舗公開情報／代表位置）",
+      "cond": "波止",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/weblogs/",
       "sourceType": "shop",
       "shore": true,
       "confidence": "shop-report",
@@ -904,6 +960,20 @@
       "cond": "陸から・波止",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/09/23",
+      "fish": "サワラ",
+      "lat": 34.42,
+      "lng": 134.9,
+      "area": "淡路島（店舗公開情報／代表位置）",
+      "cond": "波止",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/",
       "sourceType": "shop",
       "shore": true,
       "confidence": "shop-report",

@@ -1,6 +1,6 @@
 {
   "schema": "tsuritorefx-data-v2",
-  "updated_at": "2026-10-10T15:41:54+09:00",
+  "updated_at": "2026-10-10T18:34:39+09:00",
   "datasets": {
     "catches": "data/latest-catches.json",
     "facilities": "data/facilities-curated.json",
