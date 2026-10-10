@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T09:47:30+09:00",
-  "checked_at": "2026-10-10T09:47:30+09:00",
+  "generated_at": "2026-10-10T12:36:36+09:00",
+  "checked_at": "2026-10-10T12:36:36+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -42,14 +42,13 @@
       "name": "かめや釣具 山陰",
       "url": "https://kameya-choka.com/sanin/",
       "ok": true,
-      "count": 0
+      "count": 1
     },
     {
       "name": "上州屋 釣り情報",
       "url": "https://www.johshuya.co.jp/information/",
-      "ok": false,
-      "count": 0,
-      "note": "HTTPError"
+      "ok": true,
+      "count": 0
     },
     {
       "name": "釣具のポイント 福山蔵王",
@@ -146,6 +145,20 @@
       "url": "https://www.anglers.co.jp/weblogs/",
       "sourceType": "shop",
       "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/08",
+      "fish": "ヒラマサ",
+      "lat": 35.37,
+      "lng": 132.75,
+      "area": "出雲周辺（店舗公開情報／代表位置）",
+      "cond": "磯",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanin/",
+      "sourceType": "shop",
+      "shore": true,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
