@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T06:35:22+09:00",
-  "checked_at": "2026-10-10T06:35:22+09:00",
+  "generated_at": "2026-10-10T09:47:30+09:00",
+  "checked_at": "2026-10-10T09:47:30+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -47,8 +47,9 @@
     {
       "name": "上州屋 釣り情報",
       "url": "https://www.johshuya.co.jp/information/",
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "count": 0,
+      "note": "HTTPError"
     },
     {
       "name": "釣具のポイント 福山蔵王",
