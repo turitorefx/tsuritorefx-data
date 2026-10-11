@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T06:33:29+09:00",
-  "checked_at": "2026-10-11T06:33:29+09:00",
+  "generated_at": "2026-10-11T09:46:31+09:00",
+  "checked_at": "2026-10-11T09:46:31+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -30,7 +30,7 @@
       "name": "かめや釣具 山陽",
       "url": "https://kameya-choka.com/sanyo/",
       "ok": true,
-      "count": 0
+      "count": 4
     },
     {
       "name": "かめや釣具 四国",
@@ -64,6 +64,20 @@
     }
   ],
   "items": [
+    {
+      "date": "2026/10/11",
+      "fish": "サワラ",
+      "lat": 34.58,
+      "lng": 133.93,
+      "area": "岡山沿岸（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
     {
       "date": "2026/10/10",
       "fish": "サワラ",
@@ -168,7 +182,7 @@
       "lat": 34.88,
       "lng": 132.07,
       "area": "浜田周辺（店舗公開情報／代表位置）",
-      "cond": "磯",
+      "cond": "磯・ジグ",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanin/",
       "sourceType": "shop",
@@ -187,6 +201,20 @@
       "url": "https://kameya-choka.com/sanin/",
       "sourceType": "shop",
       "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/10",
+      "fish": "サワラ",
+      "lat": 34.58,
+      "lng": 133.93,
+      "area": "岡山沿岸（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": false,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
@@ -611,6 +639,20 @@
       "location_precision": "representative"
     },
     {
+      "date": "2026/10/05",
+      "fish": "サワラ",
+      "lat": 34.58,
+      "lng": 133.93,
+      "area": "岡山沿岸（店舗公開情報／代表位置）",
+      "cond": "陸から",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
       "date": "2026/10/04",
       "fish": "ハマチ",
       "lat": 34.88,
@@ -675,6 +717,20 @@
       "cond": "磯・回遊",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanin/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/04",
+      "fish": "サワラ",
+      "lat": 34.58,
+      "lng": 133.93,
+      "area": "岡山沿岸（店舗公開情報／代表位置）",
+      "cond": "陸から",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
       "sourceType": "shop",
       "shore": true,
       "confidence": "shop-report",
