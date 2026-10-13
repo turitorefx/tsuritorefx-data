@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T03:47:46+09:00",
-  "checked_at": "2026-10-14T03:47:46+09:00",
+  "generated_at": "2026-10-14T06:48:41+09:00",
+  "checked_at": "2026-10-14T06:48:41+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -30,7 +30,7 @@
       "name": "かめや釣具 山陽",
       "url": "https://kameya-choka.com/sanyo/",
       "ok": true,
-      "count": 8
+      "count": 9
     },
     {
       "name": "かめや釣具 四国",
@@ -648,7 +648,7 @@
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanyo/",
       "sourceType": "shop",
-      "shore": false,
+      "shore": true,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
