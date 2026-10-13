@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T21:49:26+09:00",
-  "checked_at": "2026-10-13T21:49:26+09:00",
+  "generated_at": "2026-10-14T00:41:07+09:00",
+  "checked_at": "2026-10-14T00:41:07+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -549,6 +549,20 @@
       "cond": "磯",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanin/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/09",
+      "fish": "サワラ",
+      "lat": 33.22,
+      "lng": 132.56,
+      "area": "宇和海（店舗公開情報／代表位置）",
+      "cond": "波止",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/weblogs/",
       "sourceType": "shop",
       "shore": true,
       "confidence": "shop-report",
