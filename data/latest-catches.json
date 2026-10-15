@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T18:52:30+09:00",
-  "checked_at": "2026-10-15T18:52:30+09:00",
+  "generated_at": "2026-10-15T22:06:25+09:00",
+  "checked_at": "2026-10-15T22:06:25+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -30,7 +30,7 @@
       "name": "かめや釣具 山陽",
       "url": "https://kameya-choka.com/sanyo/",
       "ok": true,
-      "count": 11
+      "count": 10
     },
     {
       "name": "かめや釣具 四国",
@@ -42,7 +42,7 @@
       "name": "かめや釣具 山陰",
       "url": "https://kameya-choka.com/sanin/",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "name": "上州屋 釣り情報",
@@ -341,6 +341,20 @@
       "url": "https://kameya-choka.com/sanyo/",
       "sourceType": "shop",
       "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/13",
+      "fish": "サゴシ",
+      "lat": 35.393,
+      "lng": 132.687,
+      "area": "大社周辺（店舗公開情報／代表位置）",
+      "cond": "波止",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanin/",
+      "sourceType": "shop",
+      "shore": true,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
