@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:04:00+09:00",
+  "generated_at": "2026-10-19T12:56:59+09:00",
   "sources": [
     {
       "name": "ぬるキャン",
@@ -413,7 +413,7 @@
       "name": "こまちの郷店",
       "lat": 39.060191,
       "lng": 140.457459,
-      "hours": "07:00-21:00",
+      "hours": "07:00-20:00",
       "note": "エネクスフリート公式店舗検索",
       "sourceType": "official",
       "sourceUrl": "https://map.enexfleet.com/detail/0000000103/",
