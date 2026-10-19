@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:35:58+09:00",
+  "generated_at": "2026-10-19T10:04:00+09:00",
   "sources": [
     {
       "name": "ぬるキャン",
@@ -88,7 +88,7 @@
       "name": "勝納埠頭店",
       "lat": 43.188399,
       "lng": 141.013337,
-      "hours": "06:00-20:00",
+      "hours": "06:00-19:00",
       "note": "エネクスフリート公式店舗検索",
       "sourceType": "official",
       "sourceUrl": "https://map.enexfleet.com/detail/0000000261/",
@@ -270,7 +270,7 @@
       "name": "丸新平田店",
       "lat": 39.247061,
       "lng": 141.887859,
-      "hours": "07:00-21:00",
+      "hours": "07:00-20:30",
       "note": "エネクスフリート公式店舗検索",
       "sourceType": "official",
       "sourceUrl": "https://map.enexfleet.com/detail/0000000012/",
