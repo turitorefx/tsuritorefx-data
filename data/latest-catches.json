@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T16:13:10+09:00",
-  "checked_at": "2026-10-19T16:13:10+09:00",
+  "generated_at": "2026-10-19T18:57:18+09:00",
+  "checked_at": "2026-10-19T18:57:18+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -24,25 +24,28 @@
       "name": "レジャックス 店舗ブログ",
       "url": "https://www.anglers.co.jp/weblogs/",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "name": "かめや釣具 山陽",
       "url": "https://kameya-choka.com/sanyo/",
-      "ok": true,
-      "count": 14
+      "ok": false,
+      "count": 0,
+      "note": "ConnectTimeout"
     },
     {
       "name": "かめや釣具 四国",
       "url": "https://kameya-choka.com/shikoku/",
-      "ok": true,
-      "count": 1
+      "ok": false,
+      "count": 0,
+      "note": "ConnectTimeout"
     },
     {
       "name": "かめや釣具 山陰",
       "url": "https://kameya-choka.com/sanin/",
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "count": 0,
+      "note": "ConnectTimeout"
     },
     {
       "name": "上州屋 釣り情報",
@@ -201,6 +204,20 @@
       "url": "https://kameya-choka.com/sanyo/",
       "sourceType": "shop",
       "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/18",
+      "fish": "シオ",
+      "lat": 34.42,
+      "lng": 134.9,
+      "area": "淡路島（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/weblogs/",
+      "sourceType": "shop",
+      "shore": null,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
