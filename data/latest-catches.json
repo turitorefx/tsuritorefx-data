@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T06:49:57+09:00",
-  "checked_at": "2026-10-20T06:49:57+09:00",
+  "generated_at": "2026-10-20T10:05:10+09:00",
+  "checked_at": "2026-10-20T10:05:10+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -30,13 +30,13 @@
       "name": "かめや釣具 山陽",
       "url": "https://kameya-choka.com/sanyo/",
       "ok": true,
-      "count": 14
+      "count": 13
     },
     {
       "name": "かめや釣具 四国",
       "url": "https://kameya-choka.com/shikoku/",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "name": "かめや釣具 山陰",
@@ -64,6 +64,20 @@
     }
   ],
   "items": [
+    {
+      "date": "2026/10/20",
+      "fish": "ブリ・ハマチ・ヤズ",
+      "lat": 34.35,
+      "lng": 134.05,
+      "area": "高松周辺（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/shikoku/",
+      "sourceType": "shop",
+      "shore": null,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
     {
       "date": "2026/10/19",
       "fish": "サワラ・サゴシ",
