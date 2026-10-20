@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T18:52:23+09:00",
-  "checked_at": "2026-10-20T18:52:23+09:00",
+  "generated_at": "2026-10-20T22:05:58+09:00",
+  "checked_at": "2026-10-20T22:05:58+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -36,7 +36,7 @@
       "name": "かめや釣具 四国",
       "url": "https://kameya-choka.com/shikoku/",
       "ok": true,
-      "count": 2
+      "count": 1
     },
     {
       "name": "かめや釣具 山陰",
@@ -74,7 +74,7 @@
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/shikoku/",
       "sourceType": "shop",
-      "shore": null,
+      "shore": false,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
