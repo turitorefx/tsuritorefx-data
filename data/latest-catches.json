@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T22:08:35+09:00",
-  "checked_at": "2026-10-21T22:08:35+09:00",
+  "generated_at": "2026-10-22T00:55:30+09:00",
+  "checked_at": "2026-10-22T00:55:30+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -24,28 +24,25 @@
       "name": "レジャックス 店舗ブログ",
       "url": "https://www.anglers.co.jp/weblogs/",
       "ok": true,
-      "count": 5
+      "count": 3
     },
     {
       "name": "かめや釣具 山陽",
       "url": "https://kameya-choka.com/sanyo/",
-      "ok": false,
-      "count": 0,
-      "note": "ConnectTimeout"
+      "ok": true,
+      "count": 11
     },
     {
       "name": "かめや釣具 四国",
       "url": "https://kameya-choka.com/shikoku/",
-      "ok": false,
-      "count": 0,
-      "note": "ConnectTimeout"
+      "ok": true,
+      "count": 1
     },
     {
       "name": "かめや釣具 山陰",
       "url": "https://kameya-choka.com/sanin/",
-      "ok": false,
-      "count": 0,
-      "note": "ConnectTimeout"
+      "ok": true,
+      "count": 2
     },
     {
       "name": "上州屋 釣り情報",
@@ -78,6 +75,20 @@
       "url": "https://kameya-choka.com/sanyo/",
       "sourceType": "shop",
       "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/21",
+      "fish": "サゴシ",
+      "lat": 34.88,
+      "lng": 132.07,
+      "area": "浜田周辺（店舗公開情報／代表位置）",
+      "cond": "波止・磯・ジグ",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanin/",
+      "sourceType": "shop",
+      "shore": true,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
@@ -269,11 +280,11 @@
       "lat": 34.88,
       "lng": 132.07,
       "area": "浜田周辺（店舗公開情報／代表位置）",
-      "cond": "回遊",
+      "cond": "波止・サーフ・ジグ",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanin/",
       "sourceType": "shop",
-      "shore": false,
+      "shore": true,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
