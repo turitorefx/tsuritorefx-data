@@ -1,90 +1,78 @@
 {
-  "generated_at": "2026-10-22T16:10:19+09:00",
+  "generated_at": "2026-10-22T18:55:32+09:00",
   "source": "気象庁 潮位表",
   "status": [
     {
       "code": "M0",
       "name": "今治市小島",
-      "ok": false,
-      "days": 0,
-      "note": "HTTPError"
+      "ok": true,
+      "days": 5
     },
     {
       "code": "L0",
       "name": "今治",
-      "ok": false,
-      "days": 0,
-      "note": "HTTPError"
+      "ok": true,
+      "days": 5
     },
     {
       "code": "Q9",
       "name": "呉",
-      "ok": false,
-      "days": 0,
-      "note": "HTTPError"
+      "ok": true,
+      "days": 5
     },
     {
       "code": "Q8",
       "name": "広島",
-      "ok": false,
-      "days": 0,
-      "note": "HTTPError"
+      "ok": true,
+      "days": 5
     },
     {
       "code": "UN",
       "name": "宇野",
-      "ok": false,
-      "days": 0,
-      "note": "HTTPError"
+      "ok": true,
+      "days": 5
     },
     {
       "code": "TA",
       "name": "高松",
-      "ok": false,
-      "days": 0,
-      "note": "HTTPError"
+      "ok": true,
+      "days": 5
     },
     {
       "code": "MT",
       "name": "松山",
-      "ok": false,
-      "days": 0,
-      "note": "HTTPError"
+      "ok": true,
+      "days": 5
     },
     {
       "code": "QA",
       "name": "徳山",
-      "ok": false,
-      "days": 0,
-      "note": "HTTPError"
+      "ok": true,
+      "days": 5
     },
     {
       "code": "ST",
       "name": "洲本",
-      "ok": false,
-      "days": 0,
-      "note": "HTTPError"
+      "ok": true,
+      "days": 5
     },
     {
       "code": "UW",
       "name": "宇和島",
-      "ok": false,
-      "days": 0,
-      "note": "HTTPError"
+      "ok": true,
+      "days": 5
     },
     {
       "code": "SK",
       "name": "境",
-      "ok": false,
-      "days": 0,
-      "note": "HTTPError"
+      "ok": true,
+      "days": 5
     },
     {
       "code": "HA",
       "name": "浜田",
-      "ok": false,
-      "days": 0,
-      "note": "HTTPError"
+      "ok": true,
+      "days": 5
     }
   ],
   "stations": {
