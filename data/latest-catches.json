@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T18:49:51+09:00",
-  "checked_at": "2026-10-24T18:49:51+09:00",
+  "generated_at": "2026-10-24T21:59:34+09:00",
+  "checked_at": "2026-10-24T21:59:34+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -101,6 +101,20 @@
       "cond": "公開釣果情報",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/24",
+      "fish": "ブリ・ハマチ・ヤズ",
+      "lat": 34.35,
+      "lng": 134.05,
+      "area": "高松周辺（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/shikoku/",
       "sourceType": "shop",
       "shore": false,
       "confidence": "shop-report",
