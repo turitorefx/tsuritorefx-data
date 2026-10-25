@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T10:00:21+09:00",
-  "checked_at": "2026-10-25T10:00:21+09:00",
+  "generated_at": "2026-10-25T12:54:07+09:00",
+  "checked_at": "2026-10-25T12:54:07+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -30,7 +30,7 @@
       "name": "かめや釣具 山陽",
       "url": "https://kameya-choka.com/sanyo/",
       "ok": true,
-      "count": 12
+      "count": 11
     },
     {
       "name": "かめや釣具 四国",
@@ -42,7 +42,7 @@
       "name": "かめや釣具 山陰",
       "url": "https://kameya-choka.com/sanin/",
       "ok": true,
-      "count": 0
+      "count": 2
     },
     {
       "name": "上州屋 釣り情報",
@@ -73,6 +73,20 @@
       "cond": "公開釣果情報",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": null,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/25",
+      "fish": "サゴシ",
+      "lat": 35.37,
+      "lng": 132.75,
+      "area": "出雲周辺（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanin/",
       "sourceType": "shop",
       "shore": null,
       "confidence": "shop-report",
@@ -131,6 +145,20 @@
       "url": "https://kameya-choka.com/shikoku/",
       "sourceType": "shop",
       "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/24",
+      "fish": "サゴシ",
+      "lat": 35.37,
+      "lng": 132.75,
+      "area": "出雲周辺（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanin/",
+      "sourceType": "shop",
+      "shore": null,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
@@ -1120,11 +1148,11 @@
       "lat": 34.45,
       "lng": 133.36,
       "area": "福山周辺（店舗公開情報／代表位置）",
-      "cond": "公開釣果情報",
+      "cond": "陸から",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanyo/",
       "sourceType": "shop",
-      "shore": null,
+      "shore": true,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
@@ -1344,11 +1372,11 @@
       "lat": 34.45,
       "lng": 133.36,
       "area": "福山周辺（店舗公開情報／代表位置）",
-      "cond": "公開釣果情報",
+      "cond": "陸から",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanyo/",
       "sourceType": "shop",
-      "shore": null,
+      "shore": true,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
