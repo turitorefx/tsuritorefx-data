@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T06:47:18+09:00",
-  "checked_at": "2026-10-26T06:47:18+09:00",
+  "generated_at": "2026-10-26T10:15:22+09:00",
+  "checked_at": "2026-10-26T10:15:22+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -30,7 +30,7 @@
       "name": "かめや釣具 山陽",
       "url": "https://kameya-choka.com/sanyo/",
       "ok": true,
-      "count": 11
+      "count": 10
     },
     {
       "name": "かめや釣具 四国",
@@ -89,6 +89,20 @@
       "url": "https://kameya-choka.com/sanin/",
       "sourceType": "shop",
       "shore": null,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/25",
+      "fish": "青物",
+      "lat": 34.45,
+      "lng": 133.36,
+      "area": "福山周辺（店舗公開情報／代表位置）",
+      "cond": "陸から",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": true,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
@@ -859,6 +873,20 @@
       "url": "https://kameya-choka.com/sanin/",
       "sourceType": "shop",
       "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/15",
+      "fish": "青物",
+      "lat": 34.45,
+      "lng": 133.36,
+      "area": "福山周辺（店舗公開情報／代表位置）",
+      "cond": "陸から",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": true,
       "confidence": "shop-report",
       "location_precision": "representative"
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T06:50:11+09:00",
+  "generated_at": "2026-10-26T10:15:56+09:00",
   "sources": [
     {
       "name": "ぬるキャン",
@@ -16,6 +16,32 @@
     }
   ],
   "items": [
+    {
+      "key": "enex:https-map-enexfleet-com-detail-0000011657-",
+      "type": "gas",
+      "kind": "GS",
+      "name": "ロードサービス埼玉",
+      "lat": 35.916308,
+      "lng": 139.773992,
+      "hours": "24/7",
+      "note": "エネクスフリート公式店舗検索",
+      "sourceType": "official",
+      "sourceUrl": "https://map.enexfleet.com/detail/0000011657/",
+      "approx": false
+    },
+    {
+      "key": "enex:https-map-enexfleet-com-detail-0000010449-",
+      "type": "gas",
+      "kind": "GS",
+      "name": "ロードサービス広島",
+      "lat": 34.4363347,
+      "lng": 132.4870326,
+      "hours": "24/7",
+      "note": "エネクスフリート公式店舗検索",
+      "sourceType": "official",
+      "sourceUrl": "https://map.enexfleet.com/detail/0000010449/",
+      "approx": false
+    },
     {
       "key": "enex:https-map-enexfleet-com-detail-0000000290-",
       "type": "gas",
@@ -508,32 +534,6 @@
       "note": "エネクスフリート公式店舗検索",
       "sourceType": "official",
       "sourceUrl": "https://map.enexfleet.com/detail/0000000211/",
-      "approx": false
-    },
-    {
-      "key": "enex:https-map-enexfleet-com-detail-0000000062-",
-      "type": "gas",
-      "kind": "GS",
-      "name": "apollostation 南相馬鹿島SA店／エネクスフリート（株）",
-      "lat": 37.714268,
-      "lng": 140.921385,
-      "hours": "24/7",
-      "note": "エネクスフリート公式店舗検索",
-      "sourceType": "official",
-      "sourceUrl": "https://map.enexfleet.com/detail/0000000062/",
-      "approx": false
-    },
-    {
-      "key": "enex:https-map-enexfleet-com-detail-0000000323-",
-      "type": "gas",
-      "kind": "GS",
-      "name": "ルート４矢吹インター店",
-      "lat": 37.193399,
-      "lng": 140.303718,
-      "hours": "24/7",
-      "note": "エネクスフリート公式店舗検索",
-      "sourceType": "official",
-      "sourceUrl": "https://map.enexfleet.com/detail/0000000323/",
       "approx": false
     }
   ]
