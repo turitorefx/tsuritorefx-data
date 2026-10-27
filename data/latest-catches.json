@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T10:09:53+09:00",
-  "checked_at": "2026-10-27T10:09:53+09:00",
+  "generated_at": "2026-10-27T12:54:54+09:00",
+  "checked_at": "2026-10-27T12:54:54+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -30,7 +30,7 @@
       "name": "かめや釣具 山陽",
       "url": "https://kameya-choka.com/sanyo/",
       "ok": true,
-      "count": 9
+      "count": 12
     },
     {
       "name": "かめや釣具 四国",
@@ -42,7 +42,7 @@
       "name": "かめや釣具 山陰",
       "url": "https://kameya-choka.com/sanin/",
       "ok": true,
-      "count": 5
+      "count": 2
     },
     {
       "name": "上州屋 釣り情報",
@@ -64,6 +64,20 @@
     }
   ],
   "items": [
+    {
+      "date": "2026/10/27",
+      "fish": "ヒラマサ",
+      "lat": 34.58,
+      "lng": 133.93,
+      "area": "岡山沿岸（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
     {
       "date": "2026/10/26",
       "fish": "青物",
@@ -406,6 +420,20 @@
       "lat": 34.25,
       "lng": 132.55,
       "area": "呉周辺（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": null,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/20",
+      "fish": "ヒラマサ",
+      "lat": 34.58,
+      "lng": 133.93,
+      "area": "岡山沿岸（店舗公開情報／代表位置）",
       "cond": "公開釣果情報",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanyo/",
