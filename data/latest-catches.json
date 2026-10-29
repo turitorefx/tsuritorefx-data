@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T19:10:16+09:00",
-  "checked_at": "2026-10-29T19:10:16+09:00",
+  "generated_at": "2026-10-30T03:32:40+09:00",
+  "checked_at": "2026-10-30T03:32:40+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -75,6 +75,20 @@
       "url": "https://kameya-choka.com/sanyo/",
       "sourceType": "shop",
       "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/29",
+      "fish": "サゴシ",
+      "lat": 35.37,
+      "lng": 132.75,
+      "area": "出雲周辺（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanin/",
+      "sourceType": "shop",
+      "shore": null,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
