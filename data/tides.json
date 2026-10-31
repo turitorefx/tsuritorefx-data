@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T21:45:36+09:00",
+  "generated_at": "2026-11-01T04:21:45+09:00",
   "source": "気象庁 潮位表",
   "status": [
     {
@@ -81,31 +81,6 @@
       "lat": 34.1333,
       "lng": 132.9833,
       "days": [
-        {
-          "date": "2026-10-31",
-          "events": [
-            {
-              "type": "high",
-              "time": "0:34",
-              "cm": 311
-            },
-            {
-              "type": "high",
-              "time": "14:22",
-              "cm": 347
-            },
-            {
-              "type": "low",
-              "time": "19:44",
-              "cm": 170
-            },
-            {
-              "type": "low",
-              "time": "6:37",
-              "cm": 34
-            }
-          ]
-        },
         {
           "date": "2026-11-01",
           "events": [
@@ -200,40 +175,40 @@
               "cm": 277
             }
           ]
+        },
+        {
+          "date": "2026-11-05",
+          "events": [
+            {
+              "type": "low",
+              "time": "13:13",
+              "cm": 106
+            },
+            {
+              "type": "high",
+              "time": "19:53",
+              "cm": 337
+            },
+            {
+              "type": "low",
+              "time": "1:10",
+              "cm": 117
+            },
+            {
+              "type": "high",
+              "time": "7:33",
+              "cm": 308
+            }
+          ]
         }
       ],
-      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=31&ms=10&ys=2026&de=04&me=11&ye=2026&stn=M0"
+      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=01&ms=11&ys=2026&de=05&me=11&ye=2026&stn=M0"
     },
     "L0": {
       "name": "今治",
       "lat": 34.0667,
       "lng": 133.0,
       "days": [
-        {
-          "date": "2026-10-31",
-          "events": [
-            {
-              "type": "high",
-              "time": "0:58",
-              "cm": 297
-            },
-            {
-              "type": "high",
-              "time": "14:41",
-              "cm": 330
-            },
-            {
-              "type": "low",
-              "time": "20:29",
-              "cm": 167
-            },
-            {
-              "type": "low",
-              "time": "7:34",
-              "cm": 39
-            }
-          ]
-        },
         {
           "date": "2026-11-01",
           "events": [
@@ -328,40 +303,40 @@
               "cm": 259
             }
           ]
+        },
+        {
+          "date": "2026-11-05",
+          "events": [
+            {
+              "type": "low",
+              "time": "13:52",
+              "cm": 107
+            },
+            {
+              "type": "low",
+              "time": "1:51",
+              "cm": 114
+            },
+            {
+              "type": "high",
+              "time": "20:11",
+              "cm": 322
+            },
+            {
+              "type": "high",
+              "time": "7:50",
+              "cm": 288
+            }
+          ]
         }
       ],
-      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=31&ms=10&ys=2026&de=04&me=11&ye=2026&stn=L0"
+      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=01&ms=11&ys=2026&de=05&me=11&ye=2026&stn=L0"
     },
     "Q9": {
       "name": "呉",
       "lat": 34.2333,
       "lng": 132.55,
       "days": [
-        {
-          "date": "2026-10-31",
-          "events": [
-            {
-              "type": "high",
-              "time": "0:01",
-              "cm": 302
-            },
-            {
-              "type": "high",
-              "time": "13:26",
-              "cm": 334
-            },
-            {
-              "type": "low",
-              "time": "19:24",
-              "cm": 168
-            },
-            {
-              "type": "low",
-              "time": "6:35",
-              "cm": 33
-            }
-          ]
-        },
         {
           "date": "2026-11-01",
           "events": [
@@ -456,35 +431,40 @@
               "cm": 261
             }
           ]
+        },
+        {
+          "date": "2026-11-05",
+          "events": [
+            {
+              "type": "low",
+              "time": "0:43",
+              "cm": 112
+            },
+            {
+              "type": "low",
+              "time": "12:52",
+              "cm": 100
+            },
+            {
+              "type": "high",
+              "time": "19:09",
+              "cm": 324
+            },
+            {
+              "type": "high",
+              "time": "6:48",
+              "cm": 290
+            }
+          ]
         }
       ],
-      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=31&ms=10&ys=2026&de=04&me=11&ye=2026&stn=Q9"
+      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=01&ms=11&ys=2026&de=05&me=11&ye=2026&stn=Q9"
     },
     "Q8": {
       "name": "広島",
       "lat": 34.35,
       "lng": 132.4667,
       "days": [
-        {
-          "date": "2026-10-31",
-          "events": [
-            {
-              "type": "high",
-              "time": "13:25",
-              "cm": 332
-            },
-            {
-              "type": "low",
-              "time": "19:23",
-              "cm": 169
-            },
-            {
-              "type": "low",
-              "time": "6:34",
-              "cm": 36
-            }
-          ]
-        },
         {
           "date": "2026-11-01",
           "events": [
@@ -579,40 +559,40 @@
               "cm": 260
             }
           ]
+        },
+        {
+          "date": "2026-11-05",
+          "events": [
+            {
+              "type": "low",
+              "time": "0:42",
+              "cm": 114
+            },
+            {
+              "type": "low",
+              "time": "12:50",
+              "cm": 101
+            },
+            {
+              "type": "high",
+              "time": "19:08",
+              "cm": 322
+            },
+            {
+              "type": "high",
+              "time": "6:46",
+              "cm": 288
+            }
+          ]
         }
       ],
-      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=31&ms=10&ys=2026&de=04&me=11&ye=2026&stn=Q8"
+      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=01&ms=11&ys=2026&de=05&me=11&ye=2026&stn=Q8"
     },
     "UN": {
       "name": "宇野",
       "lat": 34.4833,
       "lng": 133.95,
       "days": [
-        {
-          "date": "2026-10-31",
-          "events": [
-            {
-              "type": "high",
-              "time": "15:21",
-              "cm": 244
-            },
-            {
-              "type": "high",
-              "time": "1:01",
-              "cm": 195
-            },
-            {
-              "type": "low",
-              "time": "21:43",
-              "cm": 134
-            },
-            {
-              "type": "low",
-              "time": "7:54",
-              "cm": 23
-            }
-          ]
-        },
         {
           "date": "2026-11-01",
           "events": [
@@ -707,40 +687,40 @@
               "cm": 181
             }
           ]
+        },
+        {
+          "date": "2026-11-05",
+          "events": [
+            {
+              "type": "low",
+              "time": "14:25",
+              "cm": 77
+            },
+            {
+              "type": "high",
+              "time": "20:41",
+              "cm": 230
+            },
+            {
+              "type": "low",
+              "time": "2:29",
+              "cm": 78
+            },
+            {
+              "type": "high",
+              "time": "8:20",
+              "cm": 202
+            }
+          ]
         }
       ],
-      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=31&ms=10&ys=2026&de=04&me=11&ye=2026&stn=UN"
+      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=01&ms=11&ys=2026&de=05&me=11&ye=2026&stn=UN"
     },
     "TA": {
       "name": "高松",
       "lat": 34.35,
       "lng": 134.05,
       "days": [
-        {
-          "date": "2026-10-31",
-          "events": [
-            {
-              "type": "high",
-              "time": "0:55",
-              "cm": 191
-            },
-            {
-              "type": "high",
-              "time": "15:20",
-              "cm": 245
-            },
-            {
-              "type": "low",
-              "time": "21:46",
-              "cm": 133
-            },
-            {
-              "type": "low",
-              "time": "7:45",
-              "cm": 22
-            }
-          ]
-        },
         {
           "date": "2026-11-01",
           "events": [
@@ -835,35 +815,40 @@
               "cm": 180
             }
           ]
+        },
+        {
+          "date": "2026-11-05",
+          "events": [
+            {
+              "type": "low",
+              "time": "14:21",
+              "cm": 78
+            },
+            {
+              "type": "high",
+              "time": "20:38",
+              "cm": 230
+            },
+            {
+              "type": "low",
+              "time": "2:25",
+              "cm": 78
+            },
+            {
+              "type": "high",
+              "time": "8:18",
+              "cm": 201
+            }
+          ]
         }
       ],
-      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=31&ms=10&ys=2026&de=04&me=11&ye=2026&stn=TA"
+      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=01&ms=11&ys=2026&de=05&me=11&ye=2026&stn=TA"
     },
     "MT": {
       "name": "松山",
       "lat": 33.8667,
       "lng": 132.7167,
       "days": [
-        {
-          "date": "2026-10-31",
-          "events": [
-            {
-              "type": "high",
-              "time": "13:00",
-              "cm": 319
-            },
-            {
-              "type": "low",
-              "time": "18:55",
-              "cm": 165
-            },
-            {
-              "type": "low",
-              "time": "5:51",
-              "cm": 34
-            }
-          ]
-        },
         {
           "date": "2026-11-01",
           "events": [
@@ -958,40 +943,40 @@
               "cm": 250
             }
           ]
+        },
+        {
+          "date": "2026-11-05",
+          "events": [
+            {
+              "type": "low",
+              "time": "0:16",
+              "cm": 110
+            },
+            {
+              "type": "low",
+              "time": "12:19",
+              "cm": 99
+            },
+            {
+              "type": "high",
+              "time": "18:39",
+              "cm": 308
+            },
+            {
+              "type": "high",
+              "time": "6:19",
+              "cm": 277
+            }
+          ]
         }
       ],
-      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=31&ms=10&ys=2026&de=04&me=11&ye=2026&stn=MT"
+      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=01&ms=11&ys=2026&de=05&me=11&ye=2026&stn=MT"
     },
     "QA": {
       "name": "徳山",
       "lat": 34.0333,
       "lng": 131.8,
       "days": [
-        {
-          "date": "2026-10-31",
-          "events": [
-            {
-              "type": "high",
-              "time": "12:37",
-              "cm": 291
-            },
-            {
-              "type": "low",
-              "time": "18:28",
-              "cm": 164
-            },
-            {
-              "type": "high",
-              "time": "23:35",
-              "cm": 251
-            },
-            {
-              "type": "low",
-              "time": "5:38",
-              "cm": 39
-            }
-          ]
-        },
         {
           "date": "2026-11-01",
           "events": [
@@ -1086,40 +1071,35 @@
               "cm": 232
             }
           ]
+        },
+        {
+          "date": "2026-11-05",
+          "events": [
+            {
+              "type": "low",
+              "time": "11:58",
+              "cm": 99
+            },
+            {
+              "type": "high",
+              "time": "18:15",
+              "cm": 284
+            },
+            {
+              "type": "high",
+              "time": "5:52",
+              "cm": 255
+            }
+          ]
         }
       ],
-      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=31&ms=10&ys=2026&de=04&me=11&ye=2026&stn=QA"
+      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=01&ms=11&ys=2026&de=05&me=11&ye=2026&stn=QA"
     },
     "ST": {
       "name": "洲本",
       "lat": 34.35,
       "lng": 134.9,
       "days": [
-        {
-          "date": "2026-10-31",
-          "events": [
-            {
-              "type": "high",
-              "time": "11:11",
-              "cm": 130
-            },
-            {
-              "type": "low",
-              "time": "14:35",
-              "cm": 123
-            },
-            {
-              "type": "high",
-              "time": "19:28",
-              "cm": 144
-            },
-            {
-              "type": "low",
-              "time": "3:52",
-              "cm": 24
-            }
-          ]
-        },
         {
           "date": "2026-11-01",
           "events": [
@@ -1194,40 +1174,40 @@
               "cm": 62
             }
           ]
+        },
+        {
+          "date": "2026-11-05",
+          "events": [
+            {
+              "type": "high",
+              "time": "16:03",
+              "cm": 138
+            },
+            {
+              "type": "low",
+              "time": "22:25",
+              "cm": 71
+            },
+            {
+              "type": "high",
+              "time": "3:24",
+              "cm": 120
+            },
+            {
+              "type": "low",
+              "time": "9:29",
+              "cm": 68
+            }
+          ]
         }
       ],
-      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=31&ms=10&ys=2026&de=04&me=11&ye=2026&stn=ST"
+      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=01&ms=11&ys=2026&de=05&me=11&ye=2026&stn=ST"
     },
     "UW": {
       "name": "宇和島",
       "lat": 33.2333,
       "lng": 132.55,
       "days": [
-        {
-          "date": "2026-10-31",
-          "events": [
-            {
-              "type": "high",
-              "time": "11:26",
-              "cm": 199
-            },
-            {
-              "type": "low",
-              "time": "16:50",
-              "cm": 137
-            },
-            {
-              "type": "high",
-              "time": "22:02",
-              "cm": 183
-            },
-            {
-              "type": "low",
-              "time": "4:06",
-              "cm": 23
-            }
-          ]
-        },
         {
           "date": "2026-11-01",
           "events": [
@@ -1322,30 +1302,40 @@
               "cm": 74
             }
           ]
+        },
+        {
+          "date": "2026-11-05",
+          "events": [
+            {
+              "type": "low",
+              "time": "10:21",
+              "cm": 76
+            },
+            {
+              "type": "high",
+              "time": "16:45",
+              "cm": 200
+            },
+            {
+              "type": "low",
+              "time": "23:03",
+              "cm": 70
+            },
+            {
+              "type": "high",
+              "time": "4:18",
+              "cm": 178
+            }
+          ]
         }
       ],
-      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=31&ms=10&ys=2026&de=04&me=11&ye=2026&stn=UW"
+      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=01&ms=11&ys=2026&de=05&me=11&ye=2026&stn=UW"
     },
     "SK": {
       "name": "境",
       "lat": 35.55,
       "lng": 133.25,
       "days": [
-        {
-          "date": "2026-10-31",
-          "events": [
-            {
-              "type": "low",
-              "time": "12:32",
-              "cm": 8
-            },
-            {
-              "type": "high",
-              "time": "4:42",
-              "cm": 36
-            }
-          ]
-        },
         {
           "date": "2026-11-01",
           "events": [
@@ -1435,30 +1425,40 @@
               "cm": 20
             }
           ]
+        },
+        {
+          "date": "2026-11-05",
+          "events": [
+            {
+              "type": "high",
+              "time": "0:04",
+              "cm": 26
+            },
+            {
+              "type": "high",
+              "time": "11:36",
+              "cm": 26
+            },
+            {
+              "type": "low",
+              "time": "17:55",
+              "cm": 13
+            },
+            {
+              "type": "low",
+              "time": "5:36",
+              "cm": 16
+            }
+          ]
         }
       ],
-      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=31&ms=10&ys=2026&de=04&me=11&ye=2026&stn=SK"
+      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=01&ms=11&ys=2026&de=05&me=11&ye=2026&stn=SK"
     },
     "HA": {
       "name": "浜田",
       "lat": 34.9,
       "lng": 132.0667,
       "days": [
-        {
-          "date": "2026-10-31",
-          "events": [
-            {
-              "type": "low",
-              "time": "11:58",
-              "cm": 16
-            },
-            {
-              "type": "high",
-              "time": "2:49",
-              "cm": 64
-            }
-          ]
-        },
         {
           "date": "2026-11-01",
           "events": [
@@ -1533,9 +1533,34 @@
               "cm": 49
             }
           ]
+        },
+        {
+          "date": "2026-11-05",
+          "events": [
+            {
+              "type": "low",
+              "time": "16:01",
+              "cm": 24
+            },
+            {
+              "type": "high",
+              "time": "21:37",
+              "cm": 39
+            },
+            {
+              "type": "low",
+              "time": "2:50",
+              "cm": 25
+            },
+            {
+              "type": "high",
+              "time": "9:09",
+              "cm": 45
+            }
+          ]
         }
       ],
-      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=31&ms=10&ys=2026&de=04&me=11&ye=2026&stn=HA"
+      "url": "https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?LV=DL&S_HILO=on&ds=01&ms=11&ys=2026&de=05&me=11&ye=2026&stn=HA"
     }
   }
 }
