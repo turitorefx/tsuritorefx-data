@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:52:00+09:00",
+  "generated_at": "2026-11-02T15:24:02+09:00",
   "sources": [
     {
       "name": "ぬるキャン",
@@ -92,6 +92,19 @@
       "note": "エネクスフリート公式店舗検索",
       "sourceType": "official",
       "sourceUrl": "https://map.enexfleet.com/detail/0000000262/",
+      "approx": false
+    },
+    {
+      "key": "enex:https-map-enexfleet-com-detail-17125-",
+      "type": "gas",
+      "kind": "GS",
+      "name": "苫小牧フェリー埠頭前店",
+      "lat": 42.649831,
+      "lng": 141.634132,
+      "hours": "24/7",
+      "note": "エネクスフリート公式店舗検索",
+      "sourceType": "official",
+      "sourceUrl": "https://map.enexfleet.com/detail/17125/",
       "approx": false
     },
     {
@@ -521,19 +534,6 @@
       "note": "エネクスフリート公式店舗検索",
       "sourceType": "official",
       "sourceUrl": "https://map.enexfleet.com/detail/0000000276/",
-      "approx": false
-    },
-    {
-      "key": "enex:https-map-enexfleet-com-detail-0000000211-",
-      "type": "gas",
-      "kind": "GS",
-      "name": "ENEOS 本宮インター店／エネクスフリート（株）",
-      "lat": 37.49314,
-      "lng": 140.384367,
-      "hours": "24/7",
-      "note": "エネクスフリート公式店舗検索",
-      "sourceType": "official",
-      "sourceUrl": "https://map.enexfleet.com/detail/0000000211/",
       "approx": false
     }
   ]
