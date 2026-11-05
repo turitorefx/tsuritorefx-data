@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T20:09:15+09:00",
-  "checked_at": "2026-11-05T20:09:15+09:00",
+  "generated_at": "2026-11-06T05:05:39+09:00",
+  "checked_at": "2026-11-06T05:05:39+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -17,14 +17,16 @@
     {
       "name": "レジャックス/アングラーズグループ",
       "url": "https://www.anglers.co.jp/",
-      "ok": true,
-      "count": 4
+      "ok": false,
+      "count": 0,
+      "note": "ReadTimeout"
     },
     {
       "name": "レジャックス 店舗ブログ",
       "url": "https://www.anglers.co.jp/weblogs/",
-      "ok": true,
-      "count": 2
+      "ok": false,
+      "count": 0,
+      "note": "ReadTimeout"
     },
     {
       "name": "かめや釣具 山陽",
