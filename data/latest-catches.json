@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T10:37:20+09:00",
-  "checked_at": "2026-11-06T10:37:20+09:00",
+  "generated_at": "2026-11-06T20:06:41+09:00",
+  "checked_at": "2026-11-06T20:06:41+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -18,7 +18,7 @@
       "name": "レジャックス/アングラーズグループ",
       "url": "https://www.anglers.co.jp/",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "name": "レジャックス 店舗ブログ",
@@ -30,7 +30,7 @@
       "name": "かめや釣具 山陽",
       "url": "https://kameya-choka.com/sanyo/",
       "ok": true,
-      "count": 14
+      "count": 12
     },
     {
       "name": "かめや釣具 四国",
@@ -54,7 +54,7 @@
       "name": "釣具のポイント 福山蔵王",
       "url": "https://www.point-i.jp/fishing_spot_guides?area_id=0&free_word=&from=&prefecture_id=34&shop_id=82&to=",
       "ok": true,
-      "count": 0
+      "count": 1
     },
     {
       "name": "釣具のポイント 出雲",
@@ -93,6 +93,34 @@
       "location_precision": "representative"
     },
     {
+      "date": "2026/11/06",
+      "fish": "サワラ",
+      "lat": 34.42,
+      "lng": 134.9,
+      "area": "淡路島（店舗公開情報／代表位置）",
+      "cond": "波止・ブレード",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/",
+      "sourceType": "shop",
+      "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/11/06",
+      "fish": "サワラ80cm",
+      "lat": 33.93,
+      "lng": 132.2,
+      "area": "周防大島（店舗公開情報／代表位置）",
+      "cond": "朝マズメ・ジグ・ブレード",
+      "src": "釣具のポイント",
+      "url": "https://www.point-i.jp/fishing_spot_guides?area_id=0&free_word=&from=&prefecture_id=34&shop_id=82&to=",
+      "sourceType": "shop",
+      "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
       "date": "2026/11/05",
       "fish": "サワラ",
       "lat": 34.25,
@@ -126,11 +154,11 @@
       "lat": 34.42,
       "lng": 134.9,
       "area": "淡路島（店舗公開情報／代表位置）",
-      "cond": "ブレード",
+      "cond": "波止・ブレード",
       "src": "レジャックス/アングラーズグループ",
       "url": "https://www.anglers.co.jp/",
       "sourceType": "shop",
-      "shore": null,
+      "shore": true,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
@@ -457,6 +485,20 @@
       "location_precision": "representative"
     },
     {
+      "date": "2026/11/02",
+      "fish": "サゴシ",
+      "lat": 34.22,
+      "lng": 133.1,
+      "area": "しまなみ海道（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
       "date": "2026/11/01",
       "fish": "サゴシ",
       "lat": 34.45,
@@ -616,7 +658,35 @@
       "lat": 34.45,
       "lng": 133.36,
       "area": "福山周辺（店舗公開情報／代表位置）",
-      "cond": "ブレード",
+      "cond": "公開釣果情報",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": null,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/31",
+      "fish": "サワラ・サゴシ",
+      "lat": 34.22,
+      "lng": 133.1,
+      "area": "しまなみ海道（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/10/31",
+      "fish": "ハマチ・サゴシ",
+      "lat": 34.58,
+      "lng": 133.93,
+      "area": "岡山沿岸（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanyo/",
       "sourceType": "shop",
@@ -882,11 +952,11 @@
       "lat": 34.42,
       "lng": 134.9,
       "area": "淡路島（店舗公開情報／代表位置）",
-      "cond": "ブレード",
+      "cond": "波止・ブレード",
       "src": "レジャックス/アングラーズグループ",
       "url": "https://www.anglers.co.jp/",
       "sourceType": "shop",
-      "shore": null,
+      "shore": true,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
