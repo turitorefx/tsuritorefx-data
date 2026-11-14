@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T10:29:27+09:00",
-  "checked_at": "2026-11-14T10:29:27+09:00",
+  "generated_at": "2026-11-14T19:39:00+09:00",
+  "checked_at": "2026-11-14T19:39:00+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -42,7 +42,7 @@
       "name": "かめや釣具 山陰",
       "url": "https://kameya-choka.com/sanin/",
       "ok": true,
-      "count": 10
+      "count": 4
     },
     {
       "name": "上州屋 釣り情報",
@@ -84,7 +84,7 @@
       "lat": 35.37,
       "lng": 132.75,
       "area": "出雲周辺（店舗公開情報／代表位置）",
-      "cond": "波止・サーフ",
+      "cond": "サーフ",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanin/",
       "sourceType": "shop",
