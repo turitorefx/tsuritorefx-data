@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T20:39:01+09:00",
-  "checked_at": "2026-11-22T20:39:01+09:00",
+  "generated_at": "2026-11-23T04:49:23+09:00",
+  "checked_at": "2026-11-23T04:49:23+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -24,13 +24,13 @@
       "name": "レジャックス 店舗ブログ",
       "url": "https://www.anglers.co.jp/weblogs/",
       "ok": true,
-      "count": 2
+      "count": 3
     },
     {
       "name": "かめや釣具 山陽",
       "url": "https://kameya-choka.com/sanyo/",
       "ok": true,
-      "count": 12
+      "count": 11
     },
     {
       "name": "かめや釣具 四国",
@@ -117,6 +117,20 @@
       "url": "https://kameya-choka.com/sanin/",
       "sourceType": "shop",
       "shore": true,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/11/22",
+      "fish": "サワラ",
+      "lat": 34.42,
+      "lng": 134.9,
+      "area": "淡路島（店舗公開情報／代表位置）",
+      "cond": "公開釣果情報",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/weblogs/",
+      "sourceType": "shop",
+      "shore": null,
       "confidence": "shop-report",
       "location_precision": "representative"
     },
@@ -4942,20 +4956,6 @@
       "lat": 34.88,
       "lng": 132.07,
       "area": "浜田周辺（店舗公開情報／代表位置）",
-      "cond": "波止",
-      "src": "かめや釣具",
-      "url": "https://kameya-choka.com/sanin/",
-      "sourceType": "shop",
-      "shore": true,
-      "confidence": "shop-report",
-      "location_precision": "representative"
-    },
-    {
-      "date": "2026/10/12",
-      "fish": "サゴシ",
-      "lat": 35.393,
-      "lng": 132.687,
-      "area": "大社周辺（店舗公開情報／代表位置）",
       "cond": "波止",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/sanin/",
