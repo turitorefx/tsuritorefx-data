@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T21:43:40+09:00",
-  "checked_at": "2026-11-27T21:43:40+09:00",
+  "generated_at": "2026-11-28T08:31:23+09:00",
+  "checked_at": "2026-11-28T08:31:23+09:00",
   "sources": [
     {
       "name": "ANGLERS しまなみ",
@@ -24,7 +24,7 @@
       "name": "レジャックス 店舗ブログ",
       "url": "https://www.anglers.co.jp/weblogs/",
       "ok": true,
-      "count": 5
+      "count": 3
     },
     {
       "name": "かめや釣具 山陽",
@@ -79,6 +79,20 @@
       "location_precision": "representative"
     },
     {
+      "date": "2026/11/28",
+      "fish": "サワラ",
+      "lat": 34.45,
+      "lng": 133.36,
+      "area": "福山周辺（店舗公開情報／代表位置）",
+      "cond": "ブレード",
+      "src": "かめや釣具",
+      "url": "https://kameya-choka.com/sanyo/",
+      "sourceType": "shop",
+      "shore": null,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
       "date": "2026/11/27",
       "fish": "サワラ",
       "lat": 34.25,
@@ -115,6 +129,20 @@
       "cond": "公開釣果情報",
       "src": "かめや釣具",
       "url": "https://kameya-choka.com/shikoku/",
+      "sourceType": "shop",
+      "shore": false,
+      "confidence": "shop-report",
+      "location_precision": "representative"
+    },
+    {
+      "date": "2026/11/27",
+      "fish": "青物",
+      "lat": 34.07,
+      "lng": 132.99,
+      "area": "今治周辺（店舗公開情報／代表位置）",
+      "cond": "ジグ",
+      "src": "レジャックス/アングラーズグループ",
+      "url": "https://www.anglers.co.jp/weblogs/",
       "sourceType": "shop",
       "shore": false,
       "confidence": "shop-report",
@@ -4933,34 +4961,6 @@
       "url": "https://kameya-choka.com/sanyo/",
       "sourceType": "shop",
       "shore": false,
-      "confidence": "shop-report",
-      "location_precision": "representative"
-    },
-    {
-      "date": "2026/10/15",
-      "fish": "サゴシ",
-      "lat": 34.25,
-      "lng": 132.55,
-      "area": "呉周辺（店舗公開情報／代表位置）",
-      "cond": "公開釣果情報",
-      "src": "かめや釣具",
-      "url": "https://kameya-choka.com/sanyo/",
-      "sourceType": "shop",
-      "shore": null,
-      "confidence": "shop-report",
-      "location_precision": "representative"
-    },
-    {
-      "date": "2026/10/15",
-      "fish": "サゴシ",
-      "lat": 34.45,
-      "lng": 133.36,
-      "area": "福山周辺（店舗公開情報／代表位置）",
-      "cond": "公開釣果情報",
-      "src": "かめや釣具",
-      "url": "https://kameya-choka.com/sanyo/",
-      "sourceType": "shop",
-      "shore": null,
       "confidence": "shop-report",
       "location_precision": "representative"
     }
